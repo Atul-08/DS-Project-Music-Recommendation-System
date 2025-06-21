@@ -24,4 +24,18 @@ A smart music recommendation system that suggests songs based on user preference
 ---
 
 ## 📂 Project Structure
+music-recommendation-system/
+│
+├── data/ # Dataset files (e.g., songs.csv, users.csv)
+├── models/ # Trained models and recommendation logic
+├── notebooks/ # Jupyter notebooks for exploration
+├── app/ # Web interface (if any)
+│ └── app.py
+├── utils/ # Helper functions
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── main.py # Entry point
+
+
+
 
